@@ -8,3 +8,5 @@ comments in main method and updated readme file from dev and pushes to main bran
 ##updating main branch readme to see fork
 
 #login feature in progress
+
+###release notes added from dev profile
